@@ -1,4 +1,4 @@
-## heyoo everyone welcome to by guide
+## Welcome to git!
 
-- yo jsm here!
--hello modified
+- This is coming from 'dev-adrian'
+- hello modified
